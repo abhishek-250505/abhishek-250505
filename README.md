@@ -1,5 +1,5 @@
 
-# 👋 Hey there! I'm Abhishek Anand  
+<div><span style="color: #e8161b">#</span><span style="color: #e31a21"> </span><span style="color: #df1e26">�</span><span style="color: #da232c">�</span><span style="color: #d62731"> </span><span style="color: #d12b37">H</span><span style="color: #cc2f3c">e</span><span style="color: #c83442">y</span><span style="color: #c33847"> </span><span style="color: #bf3c4d">t</span><span style="color: #ba4052">h</span><span style="color: #b64558">e</span><span style="color: #b1495d">r</span><span style="color: #ac4d63">e</span><span style="color: #a85168">!</span><span style="color: #a3566e"> </span><span style="color: #9f5a73">I</span><span style="color: #9a5e79">'</span><span style="color: #95627e">m</span><span style="color: #916684"> </span><span style="color: #8c6b89">A</span><span style="color: #886f8f">b</span><span style="color: #837394">h</span><span style="color: #7e779a">i</span><span style="color: #7a7c9f">s</span><span style="color: #7580a5">h</span><span style="color: #7184aa">e</span><span style="color: #6c88b0">k</span><span style="color: #688db5"> </span><span style="color: #6391bb">A</span><span style="color: #5e95c0">n</span><span style="color: #5a99c6">a</span><span style="color: #559ecb">n</span><span style="color: #51a2d1">d</span><span style="color: #4ca6d6"> </span></div> 
  
  <br>🌟 **Full Stack Developer | Java Enthusiast | DSA Learner**  <br>🚀 Turning ideas into interactive web experiences  <br><br>---<br><br> ## 💫 About Me   <br>- 🎓 I'm a **student & fresher** passionate about building full-stack web applications.  <br>- 💻 I love working with **MERN stack**, **Java**, and exploring new technologies.  <br>- 🧠 Currently improving my **Data Structures & Algorithms** skills.  <br>- ⚡ Fun fact: I debug with snacks 🍫 and caffeine ☕  <br>
 
@@ -21,6 +21,7 @@
   <a href="https://leetcode.com/abhishek-250505/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 
