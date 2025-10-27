@@ -1,6 +1,4 @@
-<p >
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=👋+Hey+there!+I'm+Abhishek+Anand" alt="Hey there! I'm Abhishek Anand" />
-</p>
+<h1>👋 Hey there! I'm Abhishek Anand</h1>
 
  
  <br>🌟 **Full Stack Developer | Java Enthusiast | DSA Learner**  <br>🚀 Turning ideas into interactive web experiences  <br><br>---<br><br> ## 💫 About Me   <br>- 🎓 I'm a **student & fresher** passionate about building full-stack web applications.  <br>- 💻 I love working with **MERN stack**, **Java**, and exploring new technologies.  <br>- 🧠 Currently improving my **Data Structures & Algorithms** skills.  <br>- ⚡ Fun fact: I debug with snacks 🍫 and caffeine ☕  <br>
