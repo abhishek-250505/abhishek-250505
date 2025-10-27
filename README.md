@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#FF0000;">Hey there, Abhishek Anand 👋</h1>
+<h1 align="center" style="color:"red";">Hey there, Abhishek Anand 👋</h1>
 
 
 🌟 **Full Stack Developer | Java Enthusiast | DSA Learner**  
