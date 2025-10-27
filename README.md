@@ -7,17 +7,17 @@
 ## 🌐 Socials:
 
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/abhishek-anand-906bb7341" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:abhishek.664128@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;
+
+
   <a href="https://leetcode.com/abhishek-250505/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
