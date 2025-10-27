@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey there! I'm Abhishek Anand  
 
-<!--
-**abhishek-250505/abhishek-250505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Full Stack Developer | Java Enthusiast | DSA Learner**  
+🚀 Turning ideas into interactive web experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me  
+- 🎓 I'm a **student & fresher** passionate about building full-stack web applications.  
+- 💻 I love working with **MERN stack**, **Java**, and exploring new technologies.  
+- 🧠 Currently improving my **Data Structures & Algorithms** skills.  
+- ⚡ Fun fact: I debug with snacks 🍫 and caffeine ☕  
+
+
+
+
