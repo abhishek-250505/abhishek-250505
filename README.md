@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-<p align="center">
+<p style="background-color:#000000; border:2px solid #00FFFF; border-radius:15px; padding:20px; display:inline-block;">
   <a href="https://www.linkedin.com/in/abhishek-250505" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -14,9 +14,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/abhishek-250505" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
-  </a>
+  
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/abhishek-250505/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
