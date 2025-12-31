@@ -1,6 +1,6 @@
 
-<img width="1584" height="396" alt="Teal and Black Modern Programmer New LinkedIn Banner" src="https://github.com/user-attachments/assets/b2767a08-7bb1-4b03-a03c-592c2c78f828" />
 
+<img width="1584" height="396" alt="Blue And Purple Professional Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/c08c8428-05fd-4ff5-b3fa-55608947a788" />
 
  <h1>👋 Hey there! I'm Abhishek Anand</h1> 
  
