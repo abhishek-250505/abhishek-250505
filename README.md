@@ -1,6 +1,8 @@
 
-<h1>👋 Hey there! I'm Abhishek Anand</h1>
+<img width="1584" height="396" alt="Teal and Black Modern Programmer New LinkedIn Banner" src="https://github.com/user-attachments/assets/998b0a6f-c91b-4939-b965-7f7673e5ff1f" />
 
+
+ <h1>👋 Hey there! I'm Abhishek Anand</h1> 
  
  <br>🌟 **Full Stack Developer | Java Enthusiast | DSA Learner**  <br>🚀 Turning ideas into interactive web experiences  <br><br>---<br><br> ## 💫 About Me   <br>- 🎓 I'm a **student & fresher** passionate about building full-stack web applications.  <br>- 💻 I love working with **MERN stack**, **Java**, and exploring new technologies.  <br>- 🧠 Currently improving my **Data Structures & Algorithms** skills.  <br>- ⚡ Fun fact: I debug with snacks 🍫 and caffeine ☕  <br>
 
