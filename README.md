@@ -7,7 +7,7 @@
  <br>🌟 **Full Stack Developer | Java Enthusiast | DSA Learner**  <br>🚀 Turning ideas into interactive web experiences  <br><br>---<br><br> ## 💫 About Me   <br>- 🎓 I'm a **student & fresher** passionate about building full-stack web applications.  <br>- 💻 I love working with **MERN stack**, **Java**, and exploring new technologies.  <br>- 🧠 Currently improving my **Data Structures & Algorithms** skills.  <br>- ⚡ Fun fact: I debug with snacks 🍫 and caffeine ☕  <br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 
 <p >
