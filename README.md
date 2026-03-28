@@ -44,11 +44,9 @@
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhishek-250505&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=abhishek-250505&theme=radical&no-frame=true&margin-w=10)
 
 ### 🔝 Top Contributed Repo
-
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=abhishek-250505&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true&cache_seconds=3600)
 
 ---
