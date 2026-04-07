@@ -44,13 +44,10 @@
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhishek-250505&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhishek-250505&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=abhishek-250505&limit=5&theme=onedark&combine_all_yearly_contributions=true&cache_seconds=3600)
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhishek-250505)
 
 ---
 
 ### 👀 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=abhishek-250505&label=Profile%20Views&color=6&icon=5&pretty=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=abhishek-250505&label=Profile%20views&color=0e75b6&style=flat)
 
